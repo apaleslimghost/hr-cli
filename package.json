@@ -1,0 +1,25 @@
+{
+  "name": "@quarterto/hr-cli",
+  "version": "1.0.0",
+  "description": "cli for @quartero/hr",
+  "bin": {
+    "hr": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarterto/hr-cli.git"
+  },
+  "keywords": [
+    "hr"
+  ],
+  "author": "Matt Brennan <matt@153.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/hr-cli/issues"
+  },
+  "homepage": "https://github.com/quarterto/hr-cli#readme",
+  "dependencies": {
+    "@quarterto/hr": "^1.0.0",
+    "minimist": "^1.2.0"
+  }
+}
